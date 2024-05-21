@@ -46,3 +46,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# python script.py source_directory [destination_directory]
